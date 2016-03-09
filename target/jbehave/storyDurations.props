@@ -1,0 +1,6 @@
+#org.jbehave.core.embedder.StoryManager
+#Wed Mar 09 09:29:43 BRT 2016
+mybehave/behaviortests/i_can_toggle_a_cell.story=0
+threads=1
+total=0
+threadAverage=0
